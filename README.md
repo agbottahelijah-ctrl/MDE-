@@ -1,2 +1,5 @@
-# MDE-
-ENTERING
+{
+  `modules`: [
+    `interactive`
+  ]
+}
